@@ -1,0 +1,401 @@
+header{
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0, 0, 0, 0)), url('../resources/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    color: #fff;
+    margin-left: 250px;
+    
+
+
+    
+    
+}
+.head{
+    font-family:'Merriweather', serif; 
+    
+  font-size: 40px;
+  font-weight: 400px;
+  text-align: center;
+  padding-top: 177px;
+  
+  
+ 
+
+
+}
+.head-des{
+    width: 632px;
+    font-size: 72px;
+    font-weight: 700;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    margin: 1px 344px 177px 344px;
+}
+.background-2{
+    background-color: #fff;
+    width: 802px;
+    height: 1200px;
+    margin-left: 500px;
+}
+.para{
+    text-align: center;
+}
+.img-2{
+    margin-top: 75px;
+}
+.para-1{
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 48px;
+
+}
+.para-2{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+
+
+}
+
+.para-3{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin: 0;
+
+}
+
+/* image-3 starts here */
+.background-3{
+    /* background-image: url(../resources/Vectorrr.png); */
+    width: 1320px;
+    height: 600px;
+   margin-left: -250px;
+   margin-top: 100px;
+   display: flex;
+   justify-content: space-between;
+   background: linear-gradient(rgba(0,0,0,0.7), rgba(0, 0, 0, 0)), url('../resources/Vectorrr.png');
+}
+
+.party{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+
+font-weight: 900;
+
+letter-spacing: 7.04px;
+width: 642px;
+}
+
+.party-des{
+    width: 697px;
+    height: 60px;
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+
+font-weight: 400;
+
+
+
+}
+
+.text-inside{
+    margin-left: 30px;
+}
+.join{
+    margin-left: 50px;
+    width: 130px;
+    height: 24px;
+    color: #FFF;
+
+font-family: Inter;
+font-size: 20px;
+
+font-weight: 700;
+
+}
+.picture{
+    
+    margin: 0;
+    width: 319px;
+    height: 464px;
+    margin-left: 600px;
+    margin-bottom: 700px;
+    position: relative; top: -550px;
+    
+
+}
+
+.background-4{
+   
+    width: 1320px;
+height: 482px;
+margin-top: 1000px;
+margin-left: 300px;
+background-image: linear-gradient(rgb(238, 196, 196), rgb(248, 248, 248));
+
+}
+.place-des{
+    margin-top: 100px;
+}
+
+ .place{ 
+    text-align: center;
+    color: rgb(228, 175, 175);
+    margin-top: 200px;
+    
+} 
+
+.hotel{
+    text-align: center;
+   
+    margin-top: 100px;
+    
+    font-family: 'Inter', sans-serif;
+font-size: 32px;
+
+font-weight: 600;
+
+}
+.date{
+    text-align: center;
+    
+    margin-top: 10px;
+    font-family: 'Inter', sans-serif;
+font-size: 32px;
+
+font-weight: 600;
+   
+}
+.time{
+    text-align: center;
+    
+    margin-top: 5px;
+    font-family: 'Inter', sans-serif;
+font-size: 32px;
+
+font-weight: 600;
+    
+}
+.span{
+    color: #F00;
+}
+.btn-des{
+    margin: 10px 609px 126px 608px;
+    background-color: #F00;
+    border-radius: 8px;
+    padding: 10px 5px;
+    color: #FFF;
+    width: 167px;
+    height: 56px;
+    font-size: 20px;
+    font-weight: 600px;
+
+}
+
+.background-5{
+    background-color: white;
+    width: 1320px;
+height: 482px;
+margin-left: 300px;
+display: flex;
+justify-content:space-evenly;
+
+}
+.rep{
+    color: #FFF;
+}
+
+.offer{
+    width: 207;
+    height: 29;
+    color: #F00;
+
+    font-family: 'Inter', sans-serif;
+font-size: 24px;
+
+font-weight: 500;
+margin-top: 75px;
+
+ /* margin-right: 950px;  */
+
+
+}
+.soon{
+    width: 328;
+    height: 60px;
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+
+font-weight: 900;
+margin-top: 2px;
+
+ /* margin-right: 950px;  */
+
+}
+.offer-des{
+    width: 393;
+    height: 128px;
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+
+font-weight: 600;
+
+  /* margin-right: 950px;  */
+margin-top: 2px;
+
+
+}
+.sec-2{
+    position: relative; left:-10px; top: 60px;
+}
+.date-2{
+    color: #F00;
+font-family: Inter;
+font-size: 48px;
+
+font-weight: 700;
+
+position: relative; top: 50px;
+
+}
+
+.date-des{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+
+font-weight: 400;
+
+}
+.ellipse{
+   border-radius: 50%;
+   border: 5px solid red;
+   padding: 15px;
+}
+.img-3{
+    position: relative; top: 40px;
+}
+
+.background-6{
+    width: 1320px;
+    height: 1100px;
+    background-color: white;
+    margin-left: 300px;
+}
+.gift{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+
+font-weight: 500;
+
+margin: 0;
+
+}
+.port{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+
+font-weight: 900;
+
+margin: 0;
+
+}
+.des-5{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+
+font-weight: 400;
+
+margin-top: 10px;
+
+}
+.background-7{
+    
+    border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+    height: 616px;
+    margin-left: 300px;
+}
+.subimg{
+    text-align: center;
+    position: relative; top: 60px;
+
+}
+.newsletter{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+
+font-weight: 900;
+position: relative; top: 20px;
+
+}
+.news-des{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+
+font-weight: 400;
+position: relative; top: -20px;
+
+}
+ .wrapper{
+    text-align: center;
+    height: 60px;
+    width: 400px;
+    background-color: #FFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative; right: -450px;
+ }
+ .background-8{
+    width: 1600px;
+    height: 609px;
+    background: #070211;
+    margin-left: 150px;
+    margin-top: 0;
+    position: relative; top: -12px;
+ }
+ .para-up{
+    color: #FFF;
+    display: flex;
+   gap: 500px;
+   position: relative; left: -200px;
+   position: relative; top: 100px;
+ }
+ para-up2{
+    <i class="fa-regular fa-phone"></i>
+ }
+ .middle{
+    position: relative; top: 200px;
+    position: relative; left: 650px;
+ }
+ #footer{
+    color: #FFF;
+ }
+ .last-para{
+    color: #FFF;
+ }
+ .down{
+    position: relative; top: 300px;
+    position: relative; left: 300px;
+    display: flex;
+    gap: 700px;
+ }
+ .last-para{
+    position: relative; top: -15px;
+ }
